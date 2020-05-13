@@ -1,3 +1,5 @@
 RA: 920123099
 Nome: David Henrique
 Curso: Sistemas de Informação
+Data Nascimento: 09/11/1995
+Email: david_mix@live.com
